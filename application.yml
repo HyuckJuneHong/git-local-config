@@ -1,6 +1,6 @@
 jwt:
   description: Hi, application
-  secret: '{cipher}61b1a1160ce7bd0d204fae4a5705cdbe3379ebe6988a1ded6c2cfc1177128d2cdd492450b86a51b41041d47b5e2a1a3629a4864d4838b2732de2d92d330e204b'
+  secret: '{cipher}AQB6CjnWwIFJ9ghlhkpBjSoBtpq985OnmfTcexPL77cpJkmT/7KiLU2S+bWyXy5Hq11SJGiIXpIuP1VRXSmWLbwYnqztrH0wIpzi8NNnNc2bq+xGo7vL3ttWMdj5ySghP95+qn1XebxjO/7gti4vXHxAH4gK7bh+ble2mErcJBL64MXLjy13TrDPiFo6JCsWW9pqUNYdd+v8T03jtFTZT/+pSwkGUSTqxQmM44dNoRhxxGBKz+GaQT56F5ha/IXRfa/bT7FBtvE/qZaCAu3ErSupE3LDKBNovii42YSaXBwBZq3vZE/JB4VRGEaFcUTHkvDF1awq8Nm+luY33Wg3xj1P6PxvIEdu6tWYtsC/MfAsi5dqFYN7L1Zxtro69/OQT7exq571HW03z1ngd6Hiz6D+zFT45WkWSaOnf5vvHug58Q=='
 
 spring:
   datasource:
@@ -8,7 +8,7 @@ spring:
       driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/owo_member?useSSL=false&verifyServerCertificate=false&serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&characterEncoding=UTF-8
     username: root
-    password: '{cipher}20acae91da97896a61141c2805d172fea5fc510b780c9876e5e0b125f836190f'
+    password: '{cipher}AQARlIuD2ptzH5//AKbtgMufgjnjfDNvbR+OQDjIyglA6qHZ0om2D5OiTZiHcCjEGjabE+ezWLh9s/R9FlWRbSrS1MNpSYEPhgrlYKpo50g+eM7kKPR/h9YWy9AfoEP3LUtfONd8XR5oqPmB7OvCYO1hzMwLddqy3C7Gncn38cwWD4IDWViQvzAhRFM5NEeZ/1kOzja1x6iiPfKN0xnVDuiip8I+NEVlJEp01zvwJTS6/19CIU+Y0Ia8shCRjHFHdC953MfqXWKrJ98hkeMcxwQk37IpbB2iUrgGMFgibKrUNIQuWYpfTVMXVVaIRb7hADMKDdAk/ywAb0IYQX6f9vHoYH1g5eWED27Qc65yb//fEHwOZSOoCu75ND6athyWa1M='
 
   jpa:
     hibernate:

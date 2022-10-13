@@ -1,3 +1,3 @@
 jwt:
-  description: Hi, ecommerce update test777
-  secret: ADBF#!@$DAOGEB@N!%^#$%$#*@K@!GDS<M
+  description: Hi, ecommerce
+  secret: '{cipher}AQB6CjnWwIFJ9ghlhkpBjSoBtpq985OnmfTcexPL77cpJkmT/7KiLU2S+bWyXy5Hq11SJGiIXpIuP1VRXSmWLbwYnqztrH0wIpzi8NNnNc2bq+xGo7vL3ttWMdj5ySghP95+qn1XebxjO/7gti4vXHxAH4gK7bh+ble2mErcJBL64MXLjy13TrDPiFo6JCsWW9pqUNYdd+v8T03jtFTZT/+pSwkGUSTqxQmM44dNoRhxxGBKz+GaQT56F5ha/IXRfa/bT7FBtvE/qZaCAu3ErSupE3LDKBNovii42YSaXBwBZq3vZE/JB4VRGEaFcUTHkvDF1awq8Nm+luY33Wg3xj1P6PxvIEdu6tWYtsC/MfAsi5dqFYN7L1Zxtro69/OQT7exq571HW03z1ngd6Hiz6D+zFT45WkWSaOnf5vvHug58Q=='

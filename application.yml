@@ -1,6 +1,6 @@
 jwt:
   description: Hi, application
-  secret: ADBF#!@$DAOGEB@N!%^#$%$#*@K@!GDS<M
+  secret: '{cipher}61b1a1160ce7bd0d204fae4a5705cdbe3379ebe6988a1ded6c2cfc1177128d2cdd492450b86a51b41041d47b5e2a1a3629a4864d4838b2732de2d92d330e204b'
 
 spring:
   datasource:
